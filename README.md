@@ -1,2 +1,3 @@
-# Tafe18S1_T2
-For 5TSD assignment
+# fifthrepos
+Session 5 merging with conflicts.
+This project is to illustrate the merging conflicts with multipls developers.
